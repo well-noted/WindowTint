@@ -35,10 +35,13 @@ The settings window (rendered from the app's real UI code with the real theme; s
 
 <!-- Add these to `docs/images/` and uncomment the lines. A suggested capture checklist is at the end of this file. -->
 
+
+<img width="2572" height="1632" alt="maskedscreenshot" src="https://github.com/user-attachments/assets/3521a140-a8bc-41ce-a136-a3844ef092fa" />
 <!--
 ![Colored windows](docs/images/colored-windows.gif)
 ![Alt+Tab switcher](docs/images/switcher.gif)
-![Claude sidebar marks](docs/images/claude-sidebar.png)
+
+
 ![Browser tab marks](docs/images/browser-tabs.png)
 ![Rule from a window](docs/images/make-rule.gif)
 ![Border thickness](docs/images/border-thickness.gif)
