@@ -125,15 +125,3 @@ Issues and pull requests are welcome. Please run the tests first.
 ## License
 
 MIT, see [LICENSE](LICENSE). Copyright (c) 2026 Thomas E. Tuoti ([@well-noted](https://github.com/well-noted)).
-
-## Appendix: media capture checklist
-
-1. `hero.png`: arrange 3-4 windows (terminal, browser, editor, Claude) in different project colors.
-2. `colored-windows.gif`: press `Ctrl+Alt+1`, `2`, `3` on a window and show the color change.
-3. `switcher.gif`: hold Alt, tap Tab a few times, release.
-4. `claude-sidebar.png`: Claude app with colored sidebar chat marks.
-5. `browser-tabs.png`: browser with colored tab bars.
-6. `make-rule.gif`: `Ctrl+Alt+R`, tick conditions, save.
-7. `border-thickness.gif`: change thickness 1 to 6 in Settings.
-
-Tools such as ScreenToGif or ShareX work well.
