@@ -33,7 +33,7 @@ The settings window (rendered from the app's real UI code with the real theme; s
 
 ### Demos (to add)
 
-Add these to `docs/images/` and uncomment the lines. A suggested capture checklist is at the end of this file.
+<!-- Add these to `docs/images/` and uncomment the lines. A suggested capture checklist is at the end of this file. -->
 
 <!--
 ![Colored windows](docs/images/colored-windows.gif)
